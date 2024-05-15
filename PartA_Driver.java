@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PartA_Driver{
+public class DecisionDriver{
 /**
  * Write a description of class PartA_Driver here.
  *
